@@ -79,8 +79,7 @@ Practical environments for applying IoT penetration testing techniques in a cont
 * **Focus:** Firmware extraction, reverse engineering, embedded Linux, hardware interfaces, and exploitation
 * **Level:** Intermediate → Advanced
 * **Link:** `TODO`
-
----
+  
 
 ---
 
