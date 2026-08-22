@@ -1,2 +1,2 @@
 # IoT and Embeded Systems Cybersecurity
-A collection of IoT security assessments, hardware analysis, firmware research, bootloader analysis, attack surface mapping, and penetration testing methodologies for embedded devices.
+A practical knowledge base for IoT and Embedded Systems cybersecurity, covering security concepts, hardware interfaces, firmware analysis, embedded protocols, penetration testing methodologies, tools, and real-world security assessments.
