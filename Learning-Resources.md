@@ -14,7 +14,7 @@ Resources that provide structured learning paths for IoT and Embedded Systems se
 * **Type:** Roadmap
 * **Focus:** IoT penetration testing, hardware, firmware, networking, and protocols
 * **Level:** Beginner → Advanced
-* **Link:** `TODO`
+* **Link:** `https://voidstarsec.com/roadmap/`
 
 ---
 
