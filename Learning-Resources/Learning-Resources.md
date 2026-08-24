@@ -10,8 +10,6 @@ Resources that provide structured learning paths for IoT and Embedded Systems se
 
 ### IoT Pentesting Roadmap
 
-* **Resource:** IoT Pentesting Roadmap
-* **Type:** Roadmap
 * **Focus:** IoT penetration testing, hardware, firmware, networking, and protocols
 * **Level:** Beginner → Advanced
 * **Link:** `https://voidstarsec.com/roadmap/`
@@ -53,13 +51,14 @@ Hands-on video content covering IoT security, hardware hacking, firmware analysi
 
 * **Focus:** Hardware hacking, IoT pentesting, embedded systems, UART, debugging, and firmware
 * **Level:** Beginner → Advanced
-* **Link:** `TODO`
+* **Link:** `https://www.youtube.com/@mattbrwn`
+* **Watch list link for Enterprise IoT Pentesting:** `https://www.youtube.com/watch?v=RkGR_Xv-2Mo&list=PLuyjXiwnBIa0ny39sE0ga1lA9VauJWay3`
 
 ### Digital Andrew
 
 * **Focus:** IoT security, hardware hacking, embedded systems, and practical security research
 * **Level:** Beginner → Advanced
-* **Link:** `TODO`
+* **Link:** `https://www.youtube.com/@D1gitalAndrew`
 
 ---
 
@@ -73,13 +72,6 @@ Practical environments for applying IoT penetration testing techniques in a cont
 * **Focus:** IoT vulnerabilities, firmware, web interfaces, authentication, and embedded security
 * **Level:** Beginner → Intermediate
 * **Link:** `https://github.com/OWASP/IoTGoat`
-
-### Vulnerable IoT Devices & Firmware Labs
-
-* **Focus:** Firmware extraction, reverse engineering, embedded Linux, hardware interfaces, and exploitation
-* **Level:** Intermediate → Advanced
-* **Link:** `TODO`
-  
 
 ---
 
