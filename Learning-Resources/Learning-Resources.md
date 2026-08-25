@@ -75,44 +75,6 @@ Practical environments for applying IoT penetration testing techniques in a cont
 
 ---
 
-## 🧰 IoT Pentesting Tools
-
-Tools commonly used during IoT and Embedded Systems security assessments.
-
-### Hardware
-
-* Logic Analyzer
-* Oscilloscope
-* Multimeter
-* USB-to-UART
-* JTAG/SWD Debuggers
-* SPI Flash Programmers
-
-### Firmware
-
-* Binwalk
-* Ghidra
-* Firmware-Mod-Kit
-* FirmAE
-* QEMU
-
-### Network
-
-* Wireshark
-* Nmap
-* tcpdump
-* Scapy
-* Burp Suite
-
-### IoT Protocols
-
-* Mosquitto
-* MQTT Explorer
-* CoAP Tools
-* RTSP Tools
-* ONVIF Tools
-
----
 
 ## 📖 Standards & Security Methodologies
 
