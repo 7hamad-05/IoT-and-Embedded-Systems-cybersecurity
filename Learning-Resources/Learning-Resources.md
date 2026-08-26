@@ -89,13 +89,13 @@ Security standards and methodologies useful for structured IoT security testing.
 
 * **Focus:** Cybersecurity requirements for consumer IoT products
 * **Use:** Security requirements, assessment, and compliance mapping
-* **Resources:** `TODO`
+* **Resources:** `https://www.etsi.org/deliver/etsi_en/303600_303699/303645/03.01.02_20/en_303645v030102a.pdf`
 
 ### ETSI TS 103 701
 
 * **Focus:** Conformance assessment of IoT cybersecurity provisions
 * **Use:** IoT security testing and evidence collection
-* **Resources:** `TODO`
+* **Resources:** `https://cdn.standards.iteh.ai/samples/etsi/etsi-ts-103-701-v2-1-1-2025-05-/4a1572691ef14bafb110dd43d8a4ff01/etsi-ts-103-701-v2-1-1-2025-05-.pdf`
 
 ---
 
