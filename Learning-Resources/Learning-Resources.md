@@ -127,18 +127,6 @@ Resources for keeping up with IoT and Embedded Systems security research.
 
 ---
 
-## 📝 Writeups & Real-World Research
-
-Practical writeups and security research from real-world IoT and Embedded Systems assessments.
-
-* IoT Pentesting Writeups — `TODO`
-* Hardware Hacking Writeups — `TODO`
-* Firmware Reverse Engineering Writeups — `TODO`
-* Embedded Exploitation Writeups — `TODO`
-* IP Camera Security Research — `TODO`
-
----
-
 ## ⭐ Recommended Learning Order
 
 For someone starting from scratch:
