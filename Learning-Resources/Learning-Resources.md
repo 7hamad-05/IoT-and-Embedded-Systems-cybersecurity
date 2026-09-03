@@ -99,33 +99,6 @@ Security standards and methodologies useful for structured IoT security testing.
 
 ---
 
-## 🔬 Research & Security Research
-
-Resources for keeping up with IoT and Embedded Systems security research.
-
-### Research Papers
-
-* Firmware Security
-* Embedded Systems Security
-* IoT Vulnerability Research
-* Hardware Security
-* Side-Channel Attacks
-* Embedded Exploitation
-* IoT Protocol Security
-
-**Resources:** `TODO`
-
-### CVEs & Vulnerability Databases
-
-* Embedded Linux vulnerabilities
-* IoT device vulnerabilities
-* Firmware vulnerabilities
-* Hardware/SoC vulnerabilities
-* Network protocol vulnerabilities
-
-**Resources:** `TODO`
-
----
 
 ## ⭐ Recommended Learning Order
 
